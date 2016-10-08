@@ -27,4 +27,8 @@ public class MasodikProject {
         System.out.println("hello20");      
     }
     
+    static void writeOne(){
+        System.out.println("One");
+    }
+    
 }
