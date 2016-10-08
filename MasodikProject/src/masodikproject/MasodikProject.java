@@ -30,7 +30,11 @@ public class MasodikProject {
         System.out.println("hello23");      
         System.out.println("hello24");      
         System.out.println("hello25");          
-        System.out.println("hello26");   
+        System.out.println("hello26");         
+        System.out.println("hello27");      
+        System.out.println("hello28");          
+        System.out.println("hello29");         
+        System.out.println("dont delete it"); 
     }
 	
     static void writeOne(){
