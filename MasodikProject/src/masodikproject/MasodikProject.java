@@ -18,7 +18,6 @@ public class MasodikProject {
         System.out.println("hello1");
         System.out.println("hello12");
         System.out.println("hello13");
-        System.out.println("hello13");
         System.out.println("hello14");
         System.out.println("hello15");
         System.out.println("hello16");
