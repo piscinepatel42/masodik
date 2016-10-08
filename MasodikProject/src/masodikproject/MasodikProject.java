@@ -33,6 +33,7 @@ public class MasodikProject {
         System.out.println("hello26");      
         System.out.println("hello27");  
         System.out.println("hello28");
+        System.out.println("haleiiiii");
     }
 	
     static void writeOne(){
