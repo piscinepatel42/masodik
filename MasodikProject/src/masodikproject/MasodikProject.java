@@ -39,7 +39,8 @@ public class MasodikProject {
     
     static void writeThree(){
         System.out.println("Three");
-    
+    }
+        
     static void writeOneDown(){
         System.out.println("One");
     }
