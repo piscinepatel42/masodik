@@ -9,16 +9,8 @@ package masodikproject;
  *
  * @author Brigi
  */
-public class Pen {
-    int pen;
-    int pencil;
+public class Dog {
     
-    public Pen(int pen)
-    {
-        this.pen = pen;
-    }
-    
-    public void One(){
-        System.out.println(1);
-    }
+    int dog;
+    int cat;
 }
