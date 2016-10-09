@@ -28,6 +28,7 @@ public class MasodikProject {
         System.out.println("haleiiiii");
         System.out.println("haleiiiii");
         System.out.println("haleiiiii");
+        System.out.println("haleiiiii");
     }
 	
     static void writeOne(){

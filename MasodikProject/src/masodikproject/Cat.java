@@ -9,10 +9,6 @@ package masodikproject;
  *
  * @author Brigi
  */
-public class Dog {
-    
-    int dog;
+public class Cat {
     int cat;
-    int mouse;
-    int rabbit;
 }
