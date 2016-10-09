@@ -19,13 +19,7 @@ public class MasodikProject {
         System.out.println("hello12");
         System.out.println("hello13");
         System.out.println("hello14");
-        System.out.println("hello15");
-        System.out.println("hello16");
-        System.out.println("hello17");
-        System.out.println("hello18");
-        System.out.println("hello19");  
-        System.out.println("hello20");   
-        System.out.println("hello21");      
+        System.out.println("hello15");     
         System.out.println("hello22");      
         System.out.println("hello23");      
         System.out.println("hello24");      
@@ -33,6 +27,7 @@ public class MasodikProject {
         System.out.println("hello26");      
         System.out.println("hello27");  
         System.out.println("hello28");
+        System.out.println("haleiiiii");
         System.out.println("haleiiiii");
     }
 	
@@ -48,7 +43,8 @@ public class MasodikProject {
         System.out.println("Three");
     }
     
-    static void writeOneDown(){
+    static void One()
+    {
         System.out.println("One");
     }
 }
