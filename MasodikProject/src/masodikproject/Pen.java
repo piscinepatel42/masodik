@@ -12,6 +12,7 @@ package masodikproject;
 public class Pen {
     int pen;
     int pencil;
+    int two;
     
     public Pen(int pen)
     {
