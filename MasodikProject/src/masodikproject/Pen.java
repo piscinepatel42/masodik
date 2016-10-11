@@ -13,6 +13,7 @@ public class Pen {
     int pen;
     int pencil;
     int one;
+    int fromRavi;
     
     public Pen(int pen)
     {
