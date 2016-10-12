@@ -23,5 +23,6 @@ public class Pen {
     public void One(){
         System.out.println(1);
         int frommaster;
+        int fromNewTesting;
     }
 }
