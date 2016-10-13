@@ -28,6 +28,7 @@ public class Pen {
     public void testing(){
         System.out.println(33);
         int frommaster;
+        int fromNewTesting;
     }
     
     public void hotfixfunction(){
