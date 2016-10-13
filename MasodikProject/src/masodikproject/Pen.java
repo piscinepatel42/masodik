@@ -27,5 +27,11 @@ public class Pen {
     
     public void testing(){
         System.out.println(33);
+        int frommaster;
+    }
+    
+    public void hotfixfunction(){
+        int hotfix;
+        System.out.println("fixed the broken email");
     }
 }
