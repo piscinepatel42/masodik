@@ -12,8 +12,10 @@ package masodikproject;
 public class Pen {
     int pen;
     int pencil;
-    int one;
-    int fromRavi;
+    int one = 2;
+    int fa;
+    int virag = 3;
+    int fromRavi = 2;
     int two;
     
     public Pen(int pen)
@@ -22,7 +24,7 @@ public class Pen {
     }
     
     public void One(){
-        System.out.println(1);
+        System.out.println(7);
         int a;
     }
     
