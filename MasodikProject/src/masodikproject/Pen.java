@@ -16,6 +16,8 @@ public class Pen {
     int fa;
     int virag = 3;
     int fromRavi = 2;
+    int ko;
+    int ok;
     int two;
     
     public Pen(int pen)
@@ -25,6 +27,7 @@ public class Pen {
     
     public void One(){
         System.out.println(7);
+        System.out.println(34);
         int a;
     }
     
