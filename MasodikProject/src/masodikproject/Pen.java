@@ -24,4 +24,8 @@ public class Pen {
         System.out.println(1);
         int a;
     }
+    
+    public void testing(){
+        System.out.println(33);
+    }
 }
