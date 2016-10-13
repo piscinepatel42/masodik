@@ -14,6 +14,7 @@ public class Pen {
     int pencil;
     int one;
     int fromRavi;
+    int two;
     
     public Pen(int pen)
     {
