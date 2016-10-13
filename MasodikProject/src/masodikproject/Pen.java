@@ -24,4 +24,9 @@ public class Pen {
         System.out.println(1);
         int frommaster;
     }
+    
+    public void hotfixfunction(){
+        int hotfix;
+        System.out.println("fixed the broken email");
+    }
 }
