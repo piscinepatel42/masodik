@@ -19,6 +19,7 @@ public class Pen {
     int ko;
     int ok;
     int two;
+    int hajo;
     
     public Pen(int pen)
     {
