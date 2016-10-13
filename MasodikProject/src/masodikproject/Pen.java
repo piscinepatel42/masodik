@@ -20,6 +20,7 @@ public class Pen {
     int ok;
     int two;
     int hajo;
+    int praterbranchforpush;
     
     public Pen(int pen)
     {
