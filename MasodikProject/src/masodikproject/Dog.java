@@ -18,4 +18,5 @@ public class Dog {
     int one;
     int eight;
     int nine;
+    int ten;
 }
